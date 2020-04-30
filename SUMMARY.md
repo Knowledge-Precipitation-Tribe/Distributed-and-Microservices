@@ -21,5 +21,12 @@
 * [消息队列](zhong-jian-jian/xiao-xi-dui-lie.md)
 * [数据库中间件](zhong-jian-jian/shu-ju-ku-zhong-jian-jian.md)
 * [分布式数据库](zhong-jian-jian/fen-bu-shi-shu-ju-ku.md)
+
+## CI/CD
+
+* [CI/CD](ci-cd/ci-cd.md)
+* [搭建Gitlab服务器](ci-cd/da-jian-gitlab-fu-wu-qi.md)
+* [Gitlab CI](ci-cd/gitlab-ci.md)
+* [Github Actions](ci-cd/github-actions.md)
 * [参考文献](can-kao-wen-xian.md)
 
