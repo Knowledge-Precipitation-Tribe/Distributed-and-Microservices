@@ -20,5 +20,6 @@
 * [RPC](zhong-jian-jian/rpc.md)
 * [消息队列](zhong-jian-jian/xiao-xi-dui-lie.md)
 * [数据库中间件](zhong-jian-jian/shu-ju-ku-zhong-jian-jian.md)
+* [分布式数据库](zhong-jian-jian/fen-bu-shi-shu-ju-ku.md)
 * [参考文献](can-kao-wen-xian.md)
 
