@@ -4,7 +4,7 @@ description: 分布式与微服务
 
 # Distributed and Microservices
 
-![](.gitbook/assets/image%20%2815%29.png)
+![](.gitbook/assets/image%20%2816%29.png)
 
 本文档涉及分布式与微服务的一些相关知识，包括但不限于以下几个方面：
 
@@ -27,5 +27,11 @@ description: 分布式与微服务
 
 将本来一个大的系统分解为多个模块，比如一个购物网站，可以分解为用户服务，支付服务等等，服务之间可以通过RPC进行通信，这样降低整个系统的耦合程度，避免因为单个服务故障造成整个服务的崩溃。
 
+### serverless
 
+编写一些功能或模块，然后直接提交给云服务器的提供商，他给你反馈对应的访问接口，你甚至不需要知道你的服务是部署在哪里的。
+
+[serverless官网](https://www.serverless.com/)
+
+![](.gitbook/assets/image%20%2812%29.png)
 

@@ -34,11 +34,11 @@ sudo gitlab-ci-multi-runner register
 
 输入服务器地址
 
-![](../.gitbook/assets/image%20%2812%29.png)
+![](../.gitbook/assets/image%20%2813%29.png)
 
 输入token，首先我们在gitlab上创建一个newProject项目，在项目的侧边栏进入Settings的CI/CD页面
 
-![](../.gitbook/assets/image%20%2814%29.png)
+![](../.gitbook/assets/image%20%2815%29.png)
 
 ![](../.gitbook/assets/image%20%282%29.png)
 
@@ -50,7 +50,7 @@ sudo gitlab-ci-multi-runner register
 sudo gitlab-ci-multi-runner list
 ```
 
-![](../.gitbook/assets/image%20%2816%29.png)
+![](../.gitbook/assets/image%20%2817%29.png)
 
 接下来我们回到Gitlab刷新一下，重新进入CI/CD中的Runners，可以看到我们已经多了一个Runner
 
@@ -70,7 +70,7 @@ sudo /etc/init.d/network restart
 
 我们在这里直接在网页上创建文件
 
-![](../.gitbook/assets/image%20%2813%29.png)
+![](../.gitbook/assets/image%20%2814%29.png)
 
 之后我们点击项目的CI/CD的piplines
 
