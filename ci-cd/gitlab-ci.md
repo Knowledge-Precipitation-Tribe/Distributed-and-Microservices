@@ -34,15 +34,15 @@ sudo gitlab-ci-multi-runner register
 
 输入服务器地址
 
-![](../.gitbook/assets/image%20%2813%29.png)
+![](../.gitbook/assets/image%20%2820%29.png)
 
 输入token，首先我们在gitlab上创建一个newProject项目，在项目的侧边栏进入Settings的CI/CD页面
 
-![](../.gitbook/assets/image%20%2815%29.png)
-
-![](../.gitbook/assets/image%20%282%29.png)
+![](../.gitbook/assets/image%20%2823%29.png)
 
 ![](../.gitbook/assets/image%20%284%29.png)
+
+![](../.gitbook/assets/image%20%287%29.png)
 
 回车确认后，在tag那里可以输入一些tag，`test,demo`，之后一路回车，在最后的时候选择shell作为执行。然后我们来看一下服务是否注册成功
 
@@ -50,11 +50,11 @@ sudo gitlab-ci-multi-runner register
 sudo gitlab-ci-multi-runner list
 ```
 
-![](../.gitbook/assets/image%20%2817%29.png)
+![](../.gitbook/assets/image%20%2826%29.png)
 
 接下来我们回到Gitlab刷新一下，重新进入CI/CD中的Runners，可以看到我们已经多了一个Runner
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%2810%29.png)
 
 因为gitlab默认的域名是`gitlab.example.com`，所以我们要在gitlab-ci这台机器上修改一下hosts
 
@@ -70,27 +70,27 @@ sudo /etc/init.d/network restart
 
 我们在这里直接在网页上创建文件
 
-![](../.gitbook/assets/image%20%2814%29.png)
+![](../.gitbook/assets/image%20%2822%29.png)
 
 之后我们点击项目的CI/CD的piplines
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/image%20%289%29.png)
 
 接下来我们可以看到这个pipline的状态
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%2813%29.png)
 
 点击进去可以看到我们这个pipline目前有三个任务
 
-![](../.gitbook/assets/image%20%2810%29.png)
+![](../.gitbook/assets/image%20%2814%29.png)
 
 但是当前创建的任务并不知道该选择哪个ci-runner执行，所以需要修改我们的`.gitlab-ci.yml`文件，在每个job中输入tags
 
-![](../.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%288%29.png)
 
 然后再来看一下每个job的状态
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%286%29.png)
 
 此时我们一个完整一个pipline的流程已经完成，接下来我们通过几个案例来加深一下使用。
 
