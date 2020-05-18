@@ -4,7 +4,7 @@ description: 分布式与微服务
 
 # Distributed and Microservices
 
-![](.gitbook/assets/image%20%2825%29.png)
+![](.gitbook/assets/image%20%2831%29.png)
 
 本文档涉及分布式与微服务的一些相关知识，包括但不限于以下几个方面：
 
@@ -33,5 +33,5 @@ description: 分布式与微服务
 
 [serverless官网](https://www.serverless.com/)
 
-![](.gitbook/assets/image%20%2819%29.png)
+![](.gitbook/assets/image%20%2824%29.png)
 
