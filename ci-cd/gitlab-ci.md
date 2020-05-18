@@ -34,11 +34,11 @@ sudo gitlab-ci-multi-runner register
 
 输入服务器地址
 
-![](../.gitbook/assets/image%20%2825%29.png)
+![](../.gitbook/assets/image%20%2830%29.png)
 
 输入token，首先我们在gitlab上创建一个newProject项目，在项目的侧边栏进入Settings的CI/CD页面
 
-![](../.gitbook/assets/image%20%2829%29.png)
+![](../.gitbook/assets/image%20%2834%29.png)
 
 ![](../.gitbook/assets/image%20%285%29.png)
 
@@ -50,7 +50,7 @@ sudo gitlab-ci-multi-runner register
 sudo gitlab-ci-multi-runner list
 ```
 
-![](../.gitbook/assets/image%20%2832%29.png)
+![](../.gitbook/assets/image%20%2838%29.png)
 
 接下来我们回到Gitlab刷新一下，重新进入CI/CD中的Runners，可以看到我们已经多了一个Runner
 
@@ -70,7 +70,7 @@ sudo /etc/init.d/network restart
 
 我们在这里直接在网页上创建文件
 
-![](../.gitbook/assets/image%20%2828%29.png)
+![](../.gitbook/assets/image%20%2833%29.png)
 
 之后我们点击项目的CI/CD的piplines
 
@@ -78,11 +78,11 @@ sudo /etc/init.d/network restart
 
 接下来我们可以看到这个pipline的状态
 
-![](../.gitbook/assets/image%20%2817%29.png)
+![](../.gitbook/assets/image%20%2818%29.png)
 
 点击进去可以看到我们这个pipline目前有三个任务
 
-![](../.gitbook/assets/image%20%2818%29.png)
+![](../.gitbook/assets/image%20%2819%29.png)
 
 但是当前创建的任务并不知道该选择哪个ci-runner执行，所以需要修改我们的`.gitlab-ci.yml`文件，在每个job中输入tags
 

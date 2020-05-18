@@ -69,11 +69,11 @@ _注：在本地的Linux服务器上搭建的话要打开防火墙_
 
 设置你自己的管理员密码，然后进入登陆界面
 
-![](../.gitbook/assets/image%20%2823%29.png)
+![](../.gitbook/assets/image%20%2827%29.png)
 
 然后酒可以通过用户名：root和自己设置的密码登陆服务器了
 
-![](../.gitbook/assets/image%20%2816%29.png)
+![](../.gitbook/assets/image%20%2817%29.png)
 
 接下来你可以创建自己的仓库等一些列操作了。
 
