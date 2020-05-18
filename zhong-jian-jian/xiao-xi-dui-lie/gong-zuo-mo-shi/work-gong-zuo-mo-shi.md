@@ -8,7 +8,7 @@
 
 ## 创建RabbitMQ Work模式
 
-![](../../../.gitbook/assets/image%20%2840%29.png)
+![](../../../.gitbook/assets/image%20%2841%29.png)
 
 与Simple模式相比只是多了一个消费者而已
 
@@ -54,7 +54,7 @@ func main() {
 
 ### 查看RabbitMQ管理界面
 
-![](../../../.gitbook/assets/image%20%2837%29.png)
+![](../../../.gitbook/assets/image%20%2838%29.png)
 
 ## 代码位置
 

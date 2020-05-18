@@ -4,7 +4,7 @@ description: 分布式与微服务
 
 # Distributed and Microservices
 
-![](.gitbook/assets/image%20%2836%29.png)
+![](.gitbook/assets/image%20%2837%29.png)
 
 本文档涉及分布式与微服务的一些相关知识，包括但不限于以下几个方面：
 

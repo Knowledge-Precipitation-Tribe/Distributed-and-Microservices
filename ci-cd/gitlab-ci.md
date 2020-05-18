@@ -50,7 +50,7 @@ sudo gitlab-ci-multi-runner register
 sudo gitlab-ci-multi-runner list
 ```
 
-![](../.gitbook/assets/image%20%2838%29.png)
+![](../.gitbook/assets/image%20%2839%29.png)
 
 接下来我们回到Gitlab刷新一下，重新进入CI/CD中的Runners，可以看到我们已经多了一个Runner
 
