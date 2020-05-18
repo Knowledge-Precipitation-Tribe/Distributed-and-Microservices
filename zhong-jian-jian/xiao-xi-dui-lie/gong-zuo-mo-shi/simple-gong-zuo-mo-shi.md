@@ -142,3 +142,7 @@ func (r *RabbitMQ) ConsumeSimple() {
 
 ![](../../../.gitbook/assets/image%20%2827%29.png)
 
+## 代码位置
+
+完整代码位置请查看：[rabbitmq-code](https://github.com/Knowledge-Precipitation-Tribe/Distributed-and-Microservices/tree/master/rabbitmq-code)
+
