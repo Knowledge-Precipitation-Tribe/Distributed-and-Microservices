@@ -145,7 +145,7 @@ func (r *RabbitMQ) ConsumeSimple() {
 	forever := make(chan bool)
 	go func() {
 		for d := range msgs{
-			fmt.Println(d.Body)
+			fmt.Println(string(d.Body))
 			//实现其他的逻辑函数
 		}
 	}()
