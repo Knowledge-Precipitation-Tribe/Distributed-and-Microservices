@@ -5,8 +5,8 @@ import (
 	"log"
 )
 
-//创建路由模式下RabbitMQ实例
-func NewRabbitMQRouting(exchangeName string, routingkey string) *RabbitMQ {
+//创建Topic模式下RabbitMQ实例
+func NewRabbitMQTopic(exchangeName string, routingkey string) *RabbitMQ {
 	//创建RabbitMQ实例
 	//传入指定的routingkey
 	rabbitmq := NewRabbitMQ("", exchangeName, routingkey)
@@ -20,13 +20,13 @@ func NewRabbitMQRouting(exchangeName string, routingkey string) *RabbitMQ {
 	return rabbitmq
 }
 
-//路由模式下生产者
-func (r *RabbitMQ) PublishRouting(message string) {
+//Topic模式下生产者
+func (r *RabbitMQ) PublishTopic(message string) {
 	//1. 尝试创建交换机
 	err := r.channel.ExchangeDeclare(
 		r.Exchange,
-		//交换机的类型为direct类型
-		"direct",
+		//交换机的类型为topic类型
+		"topic",
 		//是否持久化
 		true,
 		//是否自动删除
@@ -55,11 +55,13 @@ func (r *RabbitMQ) PublishRouting(message string) {
 }
 
 //路由模式下消费者
-func (r *RabbitMQ) ReceiveRouting() {
+//要注意key的规则，用.分割，其中*代表匹配一个单词，#代表匹配0个或者多个单词
+//例如test.*就可以匹配到test.hello,但是test.hello.world就需要test.#才能获取的到
+func (r *RabbitMQ) ReceiveTopic() {
 	err := r.channel.ExchangeDeclare(
 		r.Exchange,
-		//修改为direct
-		"direct",
+		//修改为topic
+		"topic",
 		true,
 		false,
 		false,

@@ -8,8 +8,8 @@ import (
 )
 
 func main() {
-	testOne := common.NewRabbitMQRoutinh("testRouting", "testOne")
-	testTwo := common.NewRabbitMQRoutinh("testRouting", "testTwo")
+	testOne := common.NewRabbitMQRouting("testRouting", "testOne")
+	testTwo := common.NewRabbitMQRouting("testRouting", "testTwo")
 
 	for i := 0; i<100; i++{
 		testOne.PublishRouting("Routing模式testOne第" + strconv.Itoa(i) +"条数据")
