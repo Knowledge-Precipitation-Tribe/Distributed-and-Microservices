@@ -6,7 +6,7 @@
 * [互联网系统应用架构基础分析](untitled-1.md)
 * [高并发系统的分析和设计](untitled-2.md)
 * [缓存处理](untitled.md)
-* [消息传递](xiao-xi-chuan-di.md)
+* [REST](xiao-xi-chuan-di.md)
 * [日志服务](ri-zhi-fu-wu.md)
 * [服务器](fu-wu-qi.md)
 
@@ -24,21 +24,26 @@
 ## 中间件
 
 * [RPC](zhong-jian-jian/rpc.md)
-* [RabbitMQ](zhong-jian-jian/xiao-xi-dui-lie/README.md)
-  * [核心概念](zhong-jian-jian/xiao-xi-dui-lie/he-xin-gai-nian/README.md)
-    * [Virtual hosts](zhong-jian-jian/xiao-xi-dui-lie/he-xin-gai-nian/virtual-hosts.md)
-    * [Exchanges](zhong-jian-jian/xiao-xi-dui-lie/he-xin-gai-nian/exchanges.md)
-    * [Queue](zhong-jian-jian/xiao-xi-dui-lie/he-xin-gai-nian/queue.md)
-    * [Binding](zhong-jian-jian/xiao-xi-dui-lie/he-xin-gai-nian/binding.md)
-  * [工作模式](zhong-jian-jian/xiao-xi-dui-lie/gong-zuo-mo-shi/README.md)
-    * [基础代码](zhong-jian-jian/xiao-xi-dui-lie/gong-zuo-mo-shi/simple-mo-shi.md)
-    * [Simple工作模式](zhong-jian-jian/xiao-xi-dui-lie/gong-zuo-mo-shi/simple-gong-zuo-mo-shi.md)
-    * [Work工作模式](zhong-jian-jian/xiao-xi-dui-lie/gong-zuo-mo-shi/work-gong-zuo-mo-shi.md)
-    * [Publish/Subscribe发布订阅模式](zhong-jian-jian/xiao-xi-dui-lie/gong-zuo-mo-shi/publishsubscribe-fa-bu-ding-yue-mo-shi.md)
-    * [Routing工作模式](zhong-jian-jian/xiao-xi-dui-lie/gong-zuo-mo-shi/routing-gong-zuo-mo-shi.md)
-    * [Topic工作模式](zhong-jian-jian/xiao-xi-dui-lie/gong-zuo-mo-shi/topic-gong-zuo-mo-shi.md)
 * [数据库中间件](zhong-jian-jian/shu-ju-ku-zhong-jian-jian.md)
 * [分布式数据库](zhong-jian-jian/fen-bu-shi-shu-ju-ku.md)
+
+## 消息队列
+
+* [RabbitMQ](xiao-xi-dui-lie/xiao-xi-dui-lie/README.md)
+  * [核心概念](xiao-xi-dui-lie/xiao-xi-dui-lie/he-xin-gai-nian/README.md)
+    * [Virtual hosts](xiao-xi-dui-lie/xiao-xi-dui-lie/he-xin-gai-nian/virtual-hosts.md)
+    * [Exchanges](xiao-xi-dui-lie/xiao-xi-dui-lie/he-xin-gai-nian/exchanges.md)
+    * [Queue](xiao-xi-dui-lie/xiao-xi-dui-lie/he-xin-gai-nian/queue.md)
+    * [Binding](xiao-xi-dui-lie/xiao-xi-dui-lie/he-xin-gai-nian/binding.md)
+  * [工作模式](xiao-xi-dui-lie/xiao-xi-dui-lie/gong-zuo-mo-shi/README.md)
+    * [基础代码](xiao-xi-dui-lie/xiao-xi-dui-lie/gong-zuo-mo-shi/simple-mo-shi.md)
+    * [Simple工作模式](xiao-xi-dui-lie/xiao-xi-dui-lie/gong-zuo-mo-shi/simple-gong-zuo-mo-shi.md)
+    * [Work工作模式](xiao-xi-dui-lie/xiao-xi-dui-lie/gong-zuo-mo-shi/work-gong-zuo-mo-shi.md)
+    * [Publish/Subscribe发布订阅模式](xiao-xi-dui-lie/xiao-xi-dui-lie/gong-zuo-mo-shi/publishsubscribe-fa-bu-ding-yue-mo-shi.md)
+    * [Routing工作模式](xiao-xi-dui-lie/xiao-xi-dui-lie/gong-zuo-mo-shi/routing-gong-zuo-mo-shi.md)
+    * [Topic工作模式](xiao-xi-dui-lie/xiao-xi-dui-lie/gong-zuo-mo-shi/topic-gong-zuo-mo-shi.md)
+* [Kafka](xiao-xi-dui-lie/kafka.md)
+* [JMS](xiao-xi-dui-lie/jms.md)
 
 ## 服务中心
 
