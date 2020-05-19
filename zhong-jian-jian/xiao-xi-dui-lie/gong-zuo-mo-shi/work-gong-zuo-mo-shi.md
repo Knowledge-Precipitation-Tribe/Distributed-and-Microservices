@@ -58,5 +58,5 @@ func main() {
 
 ## 代码位置
 
-完整代码位置请查看：[rabbitMQWork](https://github.com/Knowledge-Precipitation-Tribe/Distributed-and-Microservices/tree/master/rabbitmq-code/rabbitmqWork)
+main函数：[rabbitmqWork](https://github.com/Knowledge-Precipitation-Tribe/Distributed-and-Microservices/tree/master/rabbitmq-code/rabbitmqWork)
 
