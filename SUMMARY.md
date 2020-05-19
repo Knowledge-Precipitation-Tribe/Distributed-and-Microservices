@@ -35,6 +35,7 @@
     * [Simple工作模式](zhong-jian-jian/xiao-xi-dui-lie/gong-zuo-mo-shi/simple-gong-zuo-mo-shi.md)
     * [Work工作模式](zhong-jian-jian/xiao-xi-dui-lie/gong-zuo-mo-shi/work-gong-zuo-mo-shi.md)
     * [Publish/Subscribe发布订阅模式](zhong-jian-jian/xiao-xi-dui-lie/gong-zuo-mo-shi/publishsubscribe-fa-bu-ding-yue-mo-shi.md)
+    * [Routing工作模式](zhong-jian-jian/xiao-xi-dui-lie/gong-zuo-mo-shi/routing-gong-zuo-mo-shi.md)
 * [数据库中间件](zhong-jian-jian/shu-ju-ku-zhong-jian-jian.md)
 * [分布式数据库](zhong-jian-jian/fen-bu-shi-shu-ju-ku.md)
 
