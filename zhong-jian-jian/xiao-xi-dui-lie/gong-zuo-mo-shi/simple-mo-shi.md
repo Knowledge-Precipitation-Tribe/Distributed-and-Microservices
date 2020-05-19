@@ -67,11 +67,15 @@ func (r *RabbitMQ) Destory() {
 }
 
 //自定义错误处理函数
-func (r *RabbitMQ) failOnErr(err error, message string) {
+func (r *RabbitMQ) ailOnErr(err error, message string) {
 	if err != nil {
 		log.Fatalf("%s:%s", message, err)
 		panic(fmt.Sprintf("%s:%s", message, err))
 	}
 }
 ```
+
+## 代码位置
+
+完整代码位置：[rabbitmq](https://github.com/Knowledge-Precipitation-Tribe/Distributed-and-Microservices/blob/master/rabbitmq-code/common/rabbitmq.go)
 

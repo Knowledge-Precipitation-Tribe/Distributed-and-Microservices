@@ -146,5 +146,7 @@ func (r *RabbitMQ) ConsumeSimple() {
 
 ## 代码位置
 
-完整代码位置请查看：[rabbitmq-code](https://github.com/Knowledge-Precipitation-Tribe/Distributed-and-Microservices/tree/master/rabbitmq-code)
+完整代码位置：[rabbitmq-Simple](https://github.com/Knowledge-Precipitation-Tribe/Distributed-and-Microservices/blob/master/rabbitmq-code/common/rabbitmq-Simple.go)
+
+main函数：[rabbitmqSimple](https://github.com/Knowledge-Precipitation-Tribe/Distributed-and-Microservices/tree/master/rabbitmq-code/rabbitmqSimple)
 
