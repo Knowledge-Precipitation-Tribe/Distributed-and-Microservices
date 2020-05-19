@@ -1,12 +1,12 @@
-package main
+package rabbitmqSimple
 
 import (
 	"fmt"
-	"rabbitmq-code/rabbitmq"
+	"rabbitmq-code/common"
 )
 
 func main() {
-	rabbitmq := rabbitmq.NewRabbitMQSimple("testSimple")
+	rabbitmq := common.NewRabbitMQSimple("testSimple")
 	rabbitmq.PublishSimple("hello world")
 	fmt.Println("发送成功")
 }

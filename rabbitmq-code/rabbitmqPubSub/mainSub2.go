@@ -1,8 +1,10 @@
 package main
 
-import "rabbitmq-code/rabbitmq"
+import (
+	"rabbitmq-code/common"
+)
 
 func main() {
-	rabbitmq := rabbitmq.NewRabbitMQPubSub("testpubsub")
+	rabbitmq := common.NewRabbitMQPubSub("testpubsub")
 	rabbitmq.ReceiveSub()
 }
