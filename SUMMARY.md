@@ -49,6 +49,7 @@
 
 * [Consul](fu-wu-zhong-xin/consul.md)
 * [ETCD](fu-wu-zhong-xin/etcd.md)
+* [ZooKeeper](fu-wu-zhong-xin/zookeeper.md)
 
 ## CI/CD
 
