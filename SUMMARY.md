@@ -54,7 +54,8 @@
 
 * [Consul](fu-wu-zhong-xin/consul.md)
 * [ETCD](fu-wu-zhong-xin/etcd.md)
-* [ZooKeeper](fu-wu-zhong-xin/zookeeper.md)
+* [ZooKeeper](fu-wu-zhong-xin/zookeeper/README.md)
+  * [ZooKeeper服务器搭建](fu-wu-zhong-xin/zookeeper/zookeeper-fu-wu-qi-da-jian.md)
 
 ## CI/CD
 
