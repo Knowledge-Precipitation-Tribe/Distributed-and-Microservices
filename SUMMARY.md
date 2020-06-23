@@ -10,6 +10,11 @@
 ## 微服务
 
 * [微服务架构](wei-fu-wu/wei-fu-wu-jia-gou.md)
+* [服务发布和引用](wei-fu-wu/fu-wu-fa-bu-he-yin-yong.md)
+* [注册和发现服务](wei-fu-wu/zhu-ce-he-fa-xian-fu-wu.md)
+* [RPC远程服务调用](wei-fu-wu/rpc-yuan-cheng-fu-wu-tiao-yong.md)
+* [微服务监控](wei-fu-wu/wei-fu-wu-jian-kong.md)
+* [微服务追踪](wei-fu-wu/wei-fu-wu-zhui-zong.md)
 * [调用链追踪](wei-fu-wu/tiao-yong-lian-zhui-zong.md)
 
 ## serverless <a id="serverless-1"></a>
@@ -18,6 +23,12 @@
 * [Serverless 的价值](serverless-1/serverless-de-jia-zhi.md)
 * [Serverless 架构模式](serverless-1/serverless-jia-gou-mo-shi.md)
 * [Serverless 技术选型](serverless-1/serverless-ji-shu-xuan-xing.md)
+
+## service
+
+* [RPC](service/rpc.md)
+* [Dubbo](service/dubbo/README.md)
+  * [Dubbo-go](service/dubbo/dubbo-go.md)
 
 ## 注册中心
 
@@ -36,12 +47,6 @@
 * [HAProxy](fu-zai-jun-heng/haproxy.md)
 * [HAProxy与Nginx对比](fu-zai-jun-heng/haproxy-yu-nginx-dui-bi.md)
 * [Traefik](fu-zai-jun-heng/traefik.md)
-
-## service
-
-* [RPC](service/rpc.md)
-* [Dubbo](service/dubbo/README.md)
-  * [Dubbo-go](service/dubbo/dubbo-go.md)
 
 ## DB
 
