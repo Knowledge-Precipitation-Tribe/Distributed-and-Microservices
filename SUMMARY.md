@@ -15,7 +15,7 @@
 * [RPC远程服务调用](wei-fu-wu/rpc-yuan-cheng-fu-wu-tiao-yong.md)
 * [微服务监控](wei-fu-wu/wei-fu-wu-jian-kong.md)
 * [微服务追踪](wei-fu-wu/wei-fu-wu-zhui-zong.md)
-* [调用链追踪](wei-fu-wu/tiao-yong-lian-zhui-zong.md)
+* [微服务治理](wei-fu-wu/wei-fu-wu-zhi-li.md)
 
 ## serverless <a id="serverless-1"></a>
 
