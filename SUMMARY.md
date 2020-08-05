@@ -3,6 +3,7 @@
 * [Distributed and Cloud Native](README.md)
 * [集群,分布式，微服务概念和区别理解](ji-qun-fen-bu-shi-wei-fu-wu-gai-nian-he-qu-bie-li-jie.md)
 * [架构的演进](untitled/README.md)
+  * [查询分离模式](untitled/cha-xun-fen-li-mo-shi.md)
   * [内容分发模式](untitled/nei-rong-fen-fa-mo-shi.md)
   * [多级缓存模式](untitled/duo-ji-huan-cun-mo-shi.md)
   * [分库分表模式](untitled/fen-ku-fen-biao-mo-shi.md)
