@@ -12,6 +12,7 @@
 * [云原生](yun-yuan-sheng.md)
 * [互联网系统应用架构基础分析](untitled-1.md)
 * [高并发系统的分析和设计](untitled-2.md)
+* [一致性Hash](yi-zhi-xing-hash.md)
 
 ## 微服务
 
