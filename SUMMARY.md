@@ -2,17 +2,30 @@
 
 * [Distributed and Cloud Native](README.md)
 * [集群,分布式，微服务概念和区别理解](ji-qun-fen-bu-shi-wei-fu-wu-gai-nian-he-qu-bie-li-jie.md)
-* [架构的演进](untitled/README.md)
-  * [查询分离模式](untitled/cha-xun-fen-li-mo-shi.md)
-  * [内容分发模式](untitled/nei-rong-fen-fa-mo-shi.md)
-  * [多级缓存模式](untitled/duo-ji-huan-cun-mo-shi.md)
-  * [分库分表模式](untitled/fen-ku-fen-biao-mo-shi.md)
-  * [弹性伸缩模式](untitled/tan-xing-shen-suo-mo-shi.md)
-  * [多机房模式](untitled/duo-ji-fang-mo-shi.md)
 * [云原生](yun-yuan-sheng.md)
-* [互联网系统应用架构基础分析](untitled-1.md)
-* [高并发系统的分析和设计](untitled-2.md)
-* [一致性Hash](yi-zhi-xing-hash.md)
+
+## 架构设计
+
+* [架构的演进](jia-gou-she-ji/untitled/README.md)
+  * [查询分离模式](jia-gou-she-ji/untitled/cha-xun-fen-li-mo-shi.md)
+  * [内容分发模式](jia-gou-she-ji/untitled/nei-rong-fen-fa-mo-shi.md)
+  * [多级缓存模式](jia-gou-she-ji/untitled/duo-ji-huan-cun-mo-shi.md)
+  * [分库分表模式](jia-gou-she-ji/untitled/fen-ku-fen-biao-mo-shi.md)
+  * [弹性伸缩模式](jia-gou-she-ji/untitled/tan-xing-shen-suo-mo-shi.md)
+  * [多机房模式](jia-gou-she-ji/untitled/duo-ji-fang-mo-shi.md)
+* [高可用设计](jia-gou-she-ji/gao-ke-yong-she-ji.md)
+* [高并发设计](jia-gou-she-ji/gao-bing-fa-she-ji/README.md)
+  * [高并发系统的分析和设计](jia-gou-she-ji/gao-bing-fa-she-ji/untitled-2.md)
+* [服务无状态设计](jia-gou-she-ji/fu-wu-wu-zhuang-tai-she-ji/README.md)
+  * [一致性Hash](jia-gou-she-ji/fu-wu-wu-zhuang-tai-she-ji/yi-zhi-xing-hash.md)
+* [负载均衡设计](jia-gou-she-ji/fu-zai-jun-heng-she-ji.md)
+* [服务密等设计](jia-gou-she-ji/fu-wu-mi-deng-she-ji.md)
+* [分布式锁设计](jia-gou-she-ji/fen-bu-shi-suo-she-ji.md)
+* [分布式事务设计](jia-gou-she-ji/fen-bu-shi-shi-wu-she-ji.md)
+* [服务降级设计](jia-gou-she-ji/fu-wu-jiang-ji-she-ji.md)
+* [服务限流、熔断设计](jia-gou-she-ji/fu-wu-xian-liu-rong-duan-she-ji.md)
+* [服务灰度发布设计](jia-gou-she-ji/fu-wu-hui-du-fa-bu-she-ji.md)
+* [服务全链路压测设计](jia-gou-she-ji/fu-wu-quan-lian-lu-ya-ce-she-ji.md)
 
 ## 微服务
 
@@ -36,6 +49,10 @@
 * [RPC](service/rpc.md)
 * [Dubbo](service/dubbo/README.md)
   * [Dubbo-go](service/dubbo/dubbo-go.md)
+
+## 控制中心
+
+* [Untitled](kong-zhi-zhong-xin/untitled.md)
 
 ## 注册中心
 
