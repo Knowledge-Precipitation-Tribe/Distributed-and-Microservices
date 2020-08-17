@@ -106,6 +106,7 @@
 * [搭建Gitlab服务器](ci-cd/da-jian-gitlab-fu-wu-qi.md)
 * [Gitlab CI](ci-cd/gitlab-ci.md)
 * [Github Actions](ci-cd/github-actions.md)
+* [一次push到多个仓库](ci-cd/yi-ci-push-dao-duo-ge-cang-ku.md)
 
 ---
 
