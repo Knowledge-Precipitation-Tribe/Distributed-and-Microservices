@@ -148,7 +148,9 @@ TLS 依赖两种加密技术：
 
 为此，通信各方都需要有各自的身份证。一个公司可以自签名一个CA身份证，并 且用它来给每个雇员以及每个程序签署身份证。这样，只要每台电脑上都预先安 装好公司自己的CA身份证，就可以用这个身份证验证每个雇员和程序的身份了。 这是目前很多公司的常用做法。
 
-双向认证和通信的过程请参见下图![](https://github.com/k8sp/tls/raw/master/bidirectional.png)
+双向认证和通信的过程请参见下图
+
+![](https://github.com/k8sp/tls/raw/master/bidirectional.png)
 
 ## 加密和解密的性能
 
