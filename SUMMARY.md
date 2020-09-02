@@ -23,7 +23,7 @@
 * [分布式锁设计](jia-gou-she-ji/fen-bu-shi-suo-she-ji.md)
 * [分布式事务设计](jia-gou-she-ji/fen-bu-shi-shi-wu-she-ji.md)
 * [服务降级设计](jia-gou-she-ji/fu-wu-jiang-ji-she-ji.md)
-* [服务限流、熔断设计](jia-gou-she-ji/fu-wu-xian-liu-rong-duan-she-ji.md)
+* [服务熔断设计](jia-gou-she-ji/fu-wu-xian-liu-rong-duan-she-ji.md)
 * [服务灰度发布设计](jia-gou-she-ji/fu-wu-hui-du-fa-bu-she-ji.md)
 * [服务全链路压测设计](jia-gou-she-ji/fu-wu-quan-lian-lu-ya-ce-she-ji.md)
 
