@@ -27,6 +27,16 @@
 * [服务灰度发布\(金丝雀发布\)设计](jia-gou-she-ji/fu-wu-hui-du-fa-bu-she-ji.md)
 * [服务全链路压测设计](jia-gou-she-ji/fu-wu-quan-lian-lu-ya-ce-she-ji.md)
 
+## 关键系统
+
+* [注册中心](guan-jian-xi-tong/zhu-ce-zhong-xin.md)
+* [配置中心](guan-jian-xi-tong/pei-zhi-zhong-xin.md)
+* [消息队列](guan-jian-xi-tong/xiao-xi-dui-lie.md)
+* [链路追踪](guan-jian-xi-tong/lian-lu-zhui-zong.md)
+* [服务治理平台](guan-jian-xi-tong/fu-wu-zhi-li-ping-tai.md)
+* [个性化推荐](guan-jian-xi-tong/ge-xing-hua-tui-jian.md)
+* [智能搜索引擎](guan-jian-xi-tong/zhi-neng-sou-suo-yin-qing.md)
+
 ## 微服务
 
 * [微服务架构](wei-fu-wu/wei-fu-wu-jia-gou.md)
