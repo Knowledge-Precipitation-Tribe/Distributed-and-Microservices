@@ -29,7 +29,11 @@
 
 ## 关键系统
 
-* [注册中心](guan-jian-xi-tong/zhu-ce-zhong-xin.md)
+* [注册中心](guan-jian-xi-tong/zhu-ce-zhong-xin/README.md)
+  * [Zookeeper](guan-jian-xi-tong/zhu-ce-zhong-xin/zookeeper.md)
+  * [ETCD](guan-jian-xi-tong/zhu-ce-zhong-xin/etcd.md)
+  * [Eureka](guan-jian-xi-tong/zhu-ce-zhong-xin/eureka.md)
+  * [Consul](guan-jian-xi-tong/zhu-ce-zhong-xin/consul.md)
 * [配置中心](guan-jian-xi-tong/pei-zhi-zhong-xin.md)
 * [消息队列](guan-jian-xi-tong/xiao-xi-dui-lie.md)
 * [链路追踪](guan-jian-xi-tong/lian-lu-zhui-zong.md)
