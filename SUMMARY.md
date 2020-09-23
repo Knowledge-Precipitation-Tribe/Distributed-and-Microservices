@@ -29,7 +29,7 @@
 
 ## 关键系统
 
-* [注册中心](guan-jian-xi-tong/zhu-ce-zhong-xin/README.md)
+* [注册/控制中心](guan-jian-xi-tong/zhu-ce-zhong-xin/README.md)
   * [Zookeeper](guan-jian-xi-tong/zhu-ce-zhong-xin/zookeeper.md)
   * [ETCD](guan-jian-xi-tong/zhu-ce-zhong-xin/etcd.md)
   * [Eureka](guan-jian-xi-tong/zhu-ce-zhong-xin/eureka.md)
