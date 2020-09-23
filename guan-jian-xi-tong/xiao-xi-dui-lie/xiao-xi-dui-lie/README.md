@@ -2,7 +2,7 @@
 
 RabbitMQ官网：[https://www.rabbitmq.com/](https://www.rabbitmq.com/)
 
-![](../../.gitbook/assets/image%20%2868%29.png)
+![](../../../.gitbook/assets/image%20%2868%29.png)
 
 ## 安装
 

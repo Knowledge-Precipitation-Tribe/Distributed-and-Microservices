@@ -4,7 +4,7 @@
 
 也就是常说的点对点模式，一条消息由一个消费者进行消费。（当有多个消费者时，默认使用轮训机制把消息分配给消费者）。
 
-![](../../../.gitbook/assets/image%20%2869%29.png)
+![](../../../../.gitbook/assets/image%20%2869%29.png)
 
 ## 创建RabbitMQ实例
 
@@ -120,29 +120,29 @@ func (r *RabbitMQ) ConsumeSimple() {
 
 启动消费者之后我们可以看到它正在等待消息
 
-![](../../../.gitbook/assets/image%20%288%29.png)
+![](../../../../.gitbook/assets/image%20%288%29.png)
 
 ### 查看RabbitMQ管理界面
 
 我们已经可以看到rabbitmq中的队列testSimple了
 
-![](../../../.gitbook/assets/image%20%281%29.png)
+![](../../../../.gitbook/assets/image%20%281%29.png)
 
 ### 启动publisher
 
 启动之后我们可以看到数据已经成功发送
 
-![](../../../.gitbook/assets/image%20%2822%29.png)
+![](../../../../.gitbook/assets/image%20%2822%29.png)
 
 在消费者里我们可以看到消息已经成功传递了过来
 
-![](../../../.gitbook/assets/image%20%2816%29.png)
+![](../../../../.gitbook/assets/image%20%2816%29.png)
 
 ### 查看RabbitMQ管理界面
 
 我们可以看到那个波峰，就是我们消息进入队列并被消费的过程。
 
-![](../../../.gitbook/assets/image%20%2832%29.png)
+![](../../../../.gitbook/assets/image%20%2832%29.png)
 
 ## 代码位置
 

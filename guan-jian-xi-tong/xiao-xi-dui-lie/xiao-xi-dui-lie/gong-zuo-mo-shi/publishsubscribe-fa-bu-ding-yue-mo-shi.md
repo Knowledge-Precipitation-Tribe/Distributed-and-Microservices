@@ -8,7 +8,7 @@
 * 交换机通过指定的规则将消息传递给不同的队列，所以同一条消息可以被多个消费者获取
 * 消息由每个队列绑定的消费者进行消费
 
-![](../../../.gitbook/assets/image%20%2872%29.png)
+![](../../../../.gitbook/assets/image%20%2872%29.png)
 
 ## 创建RabbitMQ实例
 
@@ -137,31 +137,31 @@ func (r *RabbitMQ) ReceiveSub() {
 
 可以看到消费者已经获取到队列中的消息
 
-![](../../../.gitbook/assets/image%20%2846%29.png)
+![](../../../../.gitbook/assets/image%20%2846%29.png)
 
-![](../../../.gitbook/assets/image%20%2856%29.png)
+![](../../../../.gitbook/assets/image%20%2856%29.png)
 
 ### 生产者
 
-![](../../../.gitbook/assets/image%20%2860%29.png)
+![](../../../../.gitbook/assets/image%20%2860%29.png)
 
 ### RabbitMQ管理界面
 
 可以看到我们指定名称的交换机已经创建成功
 
-![](../../../.gitbook/assets/image%20%2857%29.png)
+![](../../../../.gitbook/assets/image%20%2857%29.png)
 
 我们点击进入交换机后可以看到里面的正在监控消息的发送过程
 
-![](../../../.gitbook/assets/image%20%2845%29.png)
+![](../../../../.gitbook/assets/image%20%2845%29.png)
 
 这时我们到队列中查看一下，可以看到RabbitMQ已经为我们创建了两个随机名称的队列
 
-![](../../../.gitbook/assets/image%20%2853%29.png)
+![](../../../../.gitbook/assets/image%20%2853%29.png)
 
 点进其中一个队列查看一下具体信息，可以看到里面信息发送的监控
 
-![](../../../.gitbook/assets/image%20%2862%29.png)
+![](../../../../.gitbook/assets/image%20%2862%29.png)
 
 ## 代码位置
 

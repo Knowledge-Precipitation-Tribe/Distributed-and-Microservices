@@ -30,12 +30,27 @@
 ## 关键系统
 
 * [注册/控制中心](guan-jian-xi-tong/zhu-ce-zhong-xin/README.md)
-  * [Zookeeper](guan-jian-xi-tong/zhu-ce-zhong-xin/zookeeper.md)
+  * [Zookeeper](guan-jian-xi-tong/zhu-ce-zhong-xin/zookeeper/README.md)
+    * [ZooKeeper服务器搭建](guan-jian-xi-tong/zhu-ce-zhong-xin/zookeeper/zookeeper-fu-wu-qi-da-jian.md)
   * [ETCD](guan-jian-xi-tong/zhu-ce-zhong-xin/etcd.md)
   * [Eureka](guan-jian-xi-tong/zhu-ce-zhong-xin/eureka.md)
   * [Consul](guan-jian-xi-tong/zhu-ce-zhong-xin/consul.md)
 * [配置中心](guan-jian-xi-tong/pei-zhi-zhong-xin.md)
-* [消息队列](guan-jian-xi-tong/xiao-xi-dui-lie.md)
+* [消息队列](guan-jian-xi-tong/xiao-xi-dui-lie/README.md)
+  * [kafka](guan-jian-xi-tong/xiao-xi-dui-lie/kafka.md)
+  * [RabbitMQ](guan-jian-xi-tong/xiao-xi-dui-lie/xiao-xi-dui-lie/README.md)
+    * [核心概念](guan-jian-xi-tong/xiao-xi-dui-lie/xiao-xi-dui-lie/he-xin-gai-nian/README.md)
+      * [Virtual hosts](guan-jian-xi-tong/xiao-xi-dui-lie/xiao-xi-dui-lie/he-xin-gai-nian/virtual-hosts.md)
+      * [Exchanges](guan-jian-xi-tong/xiao-xi-dui-lie/xiao-xi-dui-lie/he-xin-gai-nian/exchanges.md)
+      * [Queue](guan-jian-xi-tong/xiao-xi-dui-lie/xiao-xi-dui-lie/he-xin-gai-nian/queue.md)
+      * [Binding](guan-jian-xi-tong/xiao-xi-dui-lie/xiao-xi-dui-lie/he-xin-gai-nian/binding.md)
+    * [工作模式](guan-jian-xi-tong/xiao-xi-dui-lie/xiao-xi-dui-lie/gong-zuo-mo-shi/README.md)
+      * [基础代码](guan-jian-xi-tong/xiao-xi-dui-lie/xiao-xi-dui-lie/gong-zuo-mo-shi/simple-mo-shi.md)
+      * [Simple工作模式](guan-jian-xi-tong/xiao-xi-dui-lie/xiao-xi-dui-lie/gong-zuo-mo-shi/simple-gong-zuo-mo-shi.md)
+      * [Work工作模式](guan-jian-xi-tong/xiao-xi-dui-lie/xiao-xi-dui-lie/gong-zuo-mo-shi/work-gong-zuo-mo-shi.md)
+      * [Publish/Subscribe发布订阅模式](guan-jian-xi-tong/xiao-xi-dui-lie/xiao-xi-dui-lie/gong-zuo-mo-shi/publishsubscribe-fa-bu-ding-yue-mo-shi.md)
+      * [Routing工作模式](guan-jian-xi-tong/xiao-xi-dui-lie/xiao-xi-dui-lie/gong-zuo-mo-shi/routing-gong-zuo-mo-shi.md)
+      * [Topic工作模式](guan-jian-xi-tong/xiao-xi-dui-lie/xiao-xi-dui-lie/gong-zuo-mo-shi/topic-gong-zuo-mo-shi.md)
 * [链路追踪](guan-jian-xi-tong/lian-lu-zhui-zong.md)
 * [服务治理平台](guan-jian-xi-tong/fu-wu-zhi-li-ping-tai.md)
 * [个性化推荐](guan-jian-xi-tong/ge-xing-hua-tui-jian.md)
@@ -68,17 +83,6 @@
 
 * [TLS](an-quan/tls.md)
 
-## 控制中心
-
-* [Untitled](kong-zhi-zhong-xin/untitled.md)
-
-## 注册中心
-
-* [Consul](zhu-ce-zhong-xin/consul.md)
-* [ETCD](zhu-ce-zhong-xin/etcd.md)
-* [ZooKeeper](zhu-ce-zhong-xin/zookeeper/README.md)
-  * [ZooKeeper服务器搭建](zhu-ce-zhong-xin/zookeeper/zookeeper-fu-wu-qi-da-jian.md)
-
 ## 负载均衡
 
 * [http/https](fu-zai-jun-heng/http-https.md)
@@ -99,24 +103,6 @@
 ## 缓存
 
 * [Untitled](huan-cun/untitled.md)
-
-## 消息队列
-
-* [RabbitMQ](xiao-xi-dui-lie/xiao-xi-dui-lie/README.md)
-  * [核心概念](xiao-xi-dui-lie/xiao-xi-dui-lie/he-xin-gai-nian/README.md)
-    * [Virtual hosts](xiao-xi-dui-lie/xiao-xi-dui-lie/he-xin-gai-nian/virtual-hosts.md)
-    * [Exchanges](xiao-xi-dui-lie/xiao-xi-dui-lie/he-xin-gai-nian/exchanges.md)
-    * [Queue](xiao-xi-dui-lie/xiao-xi-dui-lie/he-xin-gai-nian/queue.md)
-    * [Binding](xiao-xi-dui-lie/xiao-xi-dui-lie/he-xin-gai-nian/binding.md)
-  * [工作模式](xiao-xi-dui-lie/xiao-xi-dui-lie/gong-zuo-mo-shi/README.md)
-    * [基础代码](xiao-xi-dui-lie/xiao-xi-dui-lie/gong-zuo-mo-shi/simple-mo-shi.md)
-    * [Simple工作模式](xiao-xi-dui-lie/xiao-xi-dui-lie/gong-zuo-mo-shi/simple-gong-zuo-mo-shi.md)
-    * [Work工作模式](xiao-xi-dui-lie/xiao-xi-dui-lie/gong-zuo-mo-shi/work-gong-zuo-mo-shi.md)
-    * [Publish/Subscribe发布订阅模式](xiao-xi-dui-lie/xiao-xi-dui-lie/gong-zuo-mo-shi/publishsubscribe-fa-bu-ding-yue-mo-shi.md)
-    * [Routing工作模式](xiao-xi-dui-lie/xiao-xi-dui-lie/gong-zuo-mo-shi/routing-gong-zuo-mo-shi.md)
-    * [Topic工作模式](xiao-xi-dui-lie/xiao-xi-dui-lie/gong-zuo-mo-shi/topic-gong-zuo-mo-shi.md)
-* [Kafka](xiao-xi-dui-lie/kafka.md)
-* [JMS](xiao-xi-dui-lie/jms.md)
 
 ## CI/CD
 
