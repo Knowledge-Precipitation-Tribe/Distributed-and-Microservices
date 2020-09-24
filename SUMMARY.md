@@ -118,6 +118,7 @@
 * [CAP理论](chang-jian-gai-nian-hui-zong/cap-li-lun.md)
 * [Base理论](chang-jian-gai-nian-hui-zong/base-li-lun.md)
 * [TCP长连接与短连接](chang-jian-gai-nian-hui-zong/tcp-chang-lian-jie-yu-duan-lian-jie.md)
+* [长轮询与短轮询](chang-jian-gai-nian-hui-zong/chang-lun-xun-yu-duan-lun-xun.md)
 
 ---
 
