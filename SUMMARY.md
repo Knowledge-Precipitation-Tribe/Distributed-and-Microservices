@@ -113,6 +113,12 @@
 * [Github Actions](ci-cd/github-actions.md)
 * [一次push到多个仓库](ci-cd/yi-ci-push-dao-duo-ge-cang-ku.md)
 
+## 常见概念汇总
+
+* [CAP理论](chang-jian-gai-nian-hui-zong/cap-li-lun.md)
+* [Base理论](chang-jian-gai-nian-hui-zong/base-li-lun.md)
+* [TCP长连接与短连接](chang-jian-gai-nian-hui-zong/tcp-chang-lian-jie-yu-duan-lian-jie.md)
+
 ---
 
 * [参考文献](can-kao-wen-xian.md)
