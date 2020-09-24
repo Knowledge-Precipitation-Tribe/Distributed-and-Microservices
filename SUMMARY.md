@@ -119,6 +119,7 @@
 * [Base理论](chang-jian-gai-nian-hui-zong/base-li-lun.md)
 * [TCP长连接与短连接](chang-jian-gai-nian-hui-zong/tcp-chang-lian-jie-yu-duan-lian-jie.md)
 * [长轮询与短轮询](chang-jian-gai-nian-hui-zong/chang-lun-xun-yu-duan-lun-xun.md)
+* [谈谈HTTP协议中的短轮询、长轮询、长连接和短连接](chang-jian-gai-nian-hui-zong/tan-tan-http-xie-yi-zhong-de-duan-lun-xun-chang-lun-xun-chang-lian-jie-he-duan-lian-jie.md)
 
 ---
 
