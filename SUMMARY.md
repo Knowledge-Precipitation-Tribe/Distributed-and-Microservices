@@ -36,9 +36,11 @@
   * [ETCD](guan-jian-xi-tong/zhu-ce-zhong-xin/etcd.md)
   * [Eureka](guan-jian-xi-tong/zhu-ce-zhong-xin/eureka.md)
   * [Consul](guan-jian-xi-tong/zhu-ce-zhong-xin/consul.md)
-* [配置中心](guan-jian-xi-tong/pei-zhi-zhong-xin.md)
+* [配置中心](guan-jian-xi-tong/pei-zhi-zhong-xin/README.md)
+  * [Apollo](guan-jian-xi-tong/pei-zhi-zhong-xin/apollo.md)
 * [消息队列](guan-jian-xi-tong/xiao-xi-dui-lie/README.md)
   * [kafka](guan-jian-xi-tong/xiao-xi-dui-lie/kafka.md)
+  * [RocketMQ](guan-jian-xi-tong/xiao-xi-dui-lie/rocketmq.md)
   * [RabbitMQ](guan-jian-xi-tong/xiao-xi-dui-lie/xiao-xi-dui-lie/README.md)
     * [核心概念](guan-jian-xi-tong/xiao-xi-dui-lie/xiao-xi-dui-lie/he-xin-gai-nian/README.md)
       * [Virtual hosts](guan-jian-xi-tong/xiao-xi-dui-lie/xiao-xi-dui-lie/he-xin-gai-nian/virtual-hosts.md)
@@ -122,6 +124,9 @@
 * [长轮询与短轮询](chang-jian-gai-nian-hui-zong/chang-lun-xun-yu-duan-lun-xun.md)
 * [谈谈HTTP协议中的短轮询、长轮询、长连接和短连接](chang-jian-gai-nian-hui-zong/tan-tan-http-xie-yi-zhong-de-duan-lun-xun-chang-lun-xun-chang-lian-jie-he-duan-lian-jie.md)
 * [Websocket](chang-jian-gai-nian-hui-zong/websocket.md)
+* [中心化与去中心化](chang-jian-gai-nian-hui-zong/zhong-xin-hua-yu-qu-zhong-xin-hua.md)
+* [QPS、TPS、PV、UV、IP、GMV、RPS](chang-jian-gai-nian-hui-zong/qps-tps-pv-uv-ip-gmv-rps.md)
+* [MMAP](chang-jian-gai-nian-hui-zong/mmap.md)
 
 ---
 
