@@ -12,9 +12,9 @@ RabbitMQ官网：[https://www.rabbitmq.com/](https://www.rabbitmq.com/)
 
 首先介绍一下什么是MQ，消息队列（Message Queue，简称MQ），从字面意思上看，本质是个队列，FIFO先入先出，只不过队列中存放的内容是message而已。 其主要用途：不同进程Process/线程Thread之间通信。
 
-RabbitMQ是面向消息的中间件，用于组件之间的解耦，主要体现在消息的生产者和消费者之间无强依赖关系。
+RabbitMQ是面向消息的中间件，使用Erlang编写，用于组件之间的解耦，主要体现在消息的生产者和消费者之间无强依赖关系，代码整体是开源的。
 
-其是在[AMQP](https://baike.baidu.com/item/AMQP)基础上实现的完整的消息系统。
+支持AMQP/XMPP/SMTP/STOMP多种协议。适合企业级开发
 
 ## 特点
 

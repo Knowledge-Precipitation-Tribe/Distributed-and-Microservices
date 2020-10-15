@@ -41,6 +41,7 @@
 * [消息队列](guan-jian-xi-tong/xiao-xi-dui-lie/README.md)
   * [kafka](guan-jian-xi-tong/xiao-xi-dui-lie/kafka.md)
   * [RocketMQ](guan-jian-xi-tong/xiao-xi-dui-lie/rocketmq.md)
+  * [Redis](guan-jian-xi-tong/xiao-xi-dui-lie/redis.md)
   * [RabbitMQ](guan-jian-xi-tong/xiao-xi-dui-lie/xiao-xi-dui-lie/README.md)
     * [核心概念](guan-jian-xi-tong/xiao-xi-dui-lie/xiao-xi-dui-lie/he-xin-gai-nian/README.md)
       * [Virtual hosts](guan-jian-xi-tong/xiao-xi-dui-lie/xiao-xi-dui-lie/he-xin-gai-nian/virtual-hosts.md)
