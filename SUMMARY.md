@@ -14,6 +14,7 @@
   * [分库分表模式](jia-gou-she-ji/untitled/fen-ku-fen-biao-mo-shi.md)
   * [弹性伸缩模式](jia-gou-she-ji/untitled/tan-xing-shen-suo-mo-shi.md)
   * [多机房模式](jia-gou-she-ji/untitled/duo-ji-fang-mo-shi.md)
+* [架构设计哲学](jia-gou-she-ji/jia-gou-she-ji-zhe-xue.md)
 * [高可用设计](jia-gou-she-ji/gao-ke-yong-she-ji.md)
 * [高并发设计](jia-gou-she-ji/gao-bing-fa-she-ji/README.md)
   * [高并发系统的分析和设计](jia-gou-she-ji/gao-bing-fa-she-ji/untitled-2.md)
