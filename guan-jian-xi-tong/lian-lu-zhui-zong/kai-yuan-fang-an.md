@@ -1,8 +1,4 @@
-# 链路追踪
-
-
-
-## 参考文献
+# 开源方案
 
 {% embed url="https://www.jaegertracing.io/" %}
 
