@@ -29,6 +29,10 @@
 * [服务灰度发布\(金丝雀发布\)设计](jia-gou-she-ji/fu-wu-hui-du-fa-bu-she-ji.md)
 * [服务全链路压测设计](jia-gou-she-ji/fu-wu-quan-lian-lu-ya-ce-she-ji.md)
 
+## 云原生 <a id="yun-yuan-sheng-1"></a>
+
+* [推荐资源](yun-yuan-sheng-1/tui-jian-zi-yuan.md)
+
 ## 关键系统
 
 * [注册/控制中心](guan-jian-xi-tong/zhu-ce-zhong-xin/README.md)
