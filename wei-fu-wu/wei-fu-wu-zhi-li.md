@@ -100,3 +100,15 @@
 
 在实际的微服务架构实践中，上面这些服务治理手段一般都会在服务框架中默认集成了，比如阿里开源的服务框架 Dubbo、微博开源的服务框架 Motan 等，不需要业务代码去实现。如果想自己实现服务治理的手段，可以参考这些开源服务框架的实现。
 
+## 推荐内容
+
+{% embed url="https://github.com/didi/nightingale" %}
+
+{% embed url="https://github.com/grafana/loki" %}
+
+{% embed url="https://github.com/grafana/grafana" %}
+
+{% embed url="https://github.com/prometheus/prometheus" %}
+
+
+
