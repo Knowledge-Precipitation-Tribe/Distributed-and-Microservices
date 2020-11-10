@@ -32,6 +32,7 @@
 ## 云原生 <a id="yun-yuan-sheng-1"></a>
 
 * [推荐资源](yun-yuan-sheng-1/tui-jian-zi-yuan.md)
+* [技术文章](yun-yuan-sheng-1/ji-shu-wen-zhang.md)
 
 ## 关键系统
 
@@ -73,6 +74,7 @@
 * [注册和发现服务](wei-fu-wu/zhu-ce-he-fa-xian-fu-wu.md)
 * [RPC远程服务调用](wei-fu-wu/rpc-yuan-cheng-fu-wu-tiao-yong/README.md)
   * [GPRC](wei-fu-wu/rpc-yuan-cheng-fu-wu-tiao-yong/gprc.md)
+  * [zRPC](wei-fu-wu/rpc-yuan-cheng-fu-wu-tiao-yong/zrpc.md)
 * [微服务监控](wei-fu-wu/wei-fu-wu-jian-kong.md)
 * [微服务追踪](wei-fu-wu/wei-fu-wu-zhui-zong.md)
 * [微服务治理](wei-fu-wu/wei-fu-wu-zhi-li.md)
@@ -83,6 +85,7 @@
 * [Serverless 的价值](serverless-1/serverless-de-jia-zhi.md)
 * [Serverless 架构模式](serverless-1/serverless-jia-gou-mo-shi.md)
 * [Serverless 技术选型](serverless-1/serverless-ji-shu-xuan-xing.md)
+* [技术文章](serverless-1/ji-shu-wen-zhang.md)
 
 ## service
 
@@ -138,4 +141,5 @@
 ---
 
 * [参考文献](can-kao-wen-xian.md)
+* [技术文章](ji-shu-wen-zhang.md)
 
