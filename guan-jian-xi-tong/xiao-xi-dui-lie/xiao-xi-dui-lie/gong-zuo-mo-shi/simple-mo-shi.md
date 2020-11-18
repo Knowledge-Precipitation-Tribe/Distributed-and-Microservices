@@ -19,7 +19,7 @@ import "github.com/streadway/amqp"
 const MQURL = "amqp://guest:guest@127.0.0.1:5671/"
 ```
 
-其中guest是RabbitMQ默认的用户名和密码。
+其中guest是RabbitMQ默认的用户名和密码，web操控界面端口默认是15672。
 
 ## 创建RabbitMQ结构体
 
