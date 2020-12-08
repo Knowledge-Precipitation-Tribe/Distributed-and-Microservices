@@ -35,15 +35,15 @@ QPS不低于预估的85%，否则需要优化。
 
 ### 复用线上环境压测
 
-![](../.gitbook/assets/image%20%28169%29.png)
+![](../../.gitbook/assets/image%20%28169%29.png)
 
 ### 构造全套线上环境
 
-![](../.gitbook/assets/image%20%28170%29.png)
+![](../../.gitbook/assets/image%20%28170%29.png)
 
 ### 基于真实流量调配进行线上压测
 
-![](../.gitbook/assets/image%20%28171%29.png)
+![](../../.gitbook/assets/image%20%28171%29.png)
 
 ### 全链路压测方案
 

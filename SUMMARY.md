@@ -27,7 +27,8 @@
 * [服务降级设计](jia-gou-she-ji/fu-wu-jiang-ji-she-ji.md)
 * [服务熔断设计](jia-gou-she-ji/fu-wu-xian-liu-rong-duan-she-ji.md)
 * [服务灰度发布\(金丝雀发布\)设计](jia-gou-she-ji/fu-wu-hui-du-fa-bu-she-ji.md)
-* [服务全链路压测设计](jia-gou-she-ji/fu-wu-quan-lian-lu-ya-ce-she-ji.md)
+* [服务全链路压测设计](jia-gou-she-ji/fu-wu-quan-lian-lu-ya-ce-she-ji/README.md)
+  * [如何做压测](jia-gou-she-ji/fu-wu-quan-lian-lu-ya-ce-she-ji/ru-he-zuo-ya-ce.md)
 
 ## 云原生 <a id="yun-yuan-sheng-1"></a>
 
@@ -63,7 +64,8 @@
       * [Topic工作模式](guan-jian-xi-tong/xiao-xi-dui-lie/xiao-xi-dui-lie/gong-zuo-mo-shi/topic-gong-zuo-mo-shi.md)
 * [链路追踪](guan-jian-xi-tong/lian-lu-zhui-zong/README.md)
   * [开源方案](guan-jian-xi-tong/lian-lu-zhui-zong/kai-yuan-fang-an.md)
-* [服务治理平台](guan-jian-xi-tong/fu-wu-zhi-li-ping-tai.md)
+* [服务治理平台](guan-jian-xi-tong/fu-wu-zhi-li-ping-tai/README.md)
+  * [系列教程](guan-jian-xi-tong/fu-wu-zhi-li-ping-tai/xi-lie-jiao-cheng.md)
 * [个性化推荐](guan-jian-xi-tong/ge-xing-hua-tui-jian.md)
 * [智能搜索引擎](guan-jian-xi-tong/zhi-neng-sou-suo-yin-qing.md)
 
@@ -78,6 +80,7 @@
 * [微服务监控](wei-fu-wu/wei-fu-wu-jian-kong.md)
 * [微服务追踪](wei-fu-wu/wei-fu-wu-zhui-zong.md)
 * [微服务治理](wei-fu-wu/wei-fu-wu-zhi-li.md)
+* [推荐文章](wei-fu-wu/tui-jian-wen-zhang.md)
 
 ## serverless <a id="serverless-1"></a>
 
