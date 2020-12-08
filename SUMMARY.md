@@ -69,6 +69,11 @@
 * [个性化推荐](guan-jian-xi-tong/ge-xing-hua-tui-jian.md)
 * [智能搜索引擎](guan-jian-xi-tong/zhi-neng-sou-suo-yin-qing.md)
 
+## 分布式系统
+
+* [简介](fen-bu-shi-xi-tong/untitled.md)
+* [Introduction](fen-bu-shi-xi-tong/introduction.md)
+
 ## 微服务
 
 * [微服务架构](wei-fu-wu/wei-fu-wu-jia-gou.md)
