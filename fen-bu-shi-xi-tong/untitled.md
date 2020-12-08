@@ -8,5 +8,7 @@
 
 {% embed url="https://github.com/chaozh/MIT-6.824" %}
 
+{% embed url="https://github.com/ivanallen/thor" %}
+
 
 
