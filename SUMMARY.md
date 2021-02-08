@@ -47,6 +47,7 @@
 * [配置中心](guan-jian-xi-tong/pei-zhi-zhong-xin/README.md)
   * [Apollo](guan-jian-xi-tong/pei-zhi-zhong-xin/apollo.md)
 * [消息队列](guan-jian-xi-tong/xiao-xi-dui-lie/README.md)
+  * [使用MQ可能会遇到的问题](guan-jian-xi-tong/xiao-xi-dui-lie/shi-yong-mq-ke-neng-hui-yu-dao-de-wen-ti.md)
   * [kafka](guan-jian-xi-tong/xiao-xi-dui-lie/kafka.md)
   * [RocketMQ](guan-jian-xi-tong/xiao-xi-dui-lie/rocketmq.md)
   * [Redis](guan-jian-xi-tong/xiao-xi-dui-lie/redis.md)
