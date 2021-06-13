@@ -74,6 +74,7 @@
 * [服务治理平台](guan-jian-xi-tong/fu-wu-zhi-li-ping-tai/README.md)
   * [系列教程](guan-jian-xi-tong/fu-wu-zhi-li-ping-tai/xi-lie-jiao-cheng.md)
 * [缓存系统](guan-jian-xi-tong/huan-cun-xi-tong/README.md)
+  * [缓存设计](guan-jian-xi-tong/huan-cun-xi-tong/huan-cun-she-ji.md)
   * [缓存系统稳定性](guan-jian-xi-tong/huan-cun-xi-tong/huan-cun-xi-tong-wen-ding-xing.md)
   * [缓存数据一致性](guan-jian-xi-tong/huan-cun-xi-tong/huan-cun-shu-ju-yi-zhi-xing.md)
   * [缓存系统的取舍](guan-jian-xi-tong/huan-cun-xi-tong/huan-cun-xi-tong-de-qu-she.md)
