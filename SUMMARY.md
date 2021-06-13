@@ -73,13 +73,12 @@
   * [开源方案](guan-jian-xi-tong/lian-lu-zhui-zong/kai-yuan-fang-an.md)
 * [服务治理平台](guan-jian-xi-tong/fu-wu-zhi-li-ping-tai/README.md)
   * [系列教程](guan-jian-xi-tong/fu-wu-zhi-li-ping-tai/xi-lie-jiao-cheng.md)
+* [缓存系统](guan-jian-xi-tong/huan-cun-xi-tong/README.md)
+  * [缓存系统稳定性](guan-jian-xi-tong/huan-cun-xi-tong/huan-cun-xi-tong-wen-ding-xing.md)
+  * [缓存数据一致性](guan-jian-xi-tong/huan-cun-xi-tong/huan-cun-shu-ju-yi-zhi-xing.md)
+  * [缓存系统的取舍](guan-jian-xi-tong/huan-cun-xi-tong/huan-cun-xi-tong-de-qu-she.md)
 * [个性化推荐](guan-jian-xi-tong/ge-xing-hua-tui-jian.md)
 * [智能搜索引擎](guan-jian-xi-tong/zhi-neng-sou-suo-yin-qing.md)
-
-## 分布式系统
-
-* [简介](fen-bu-shi-xi-tong/untitled.md)
-* [Introduction](fen-bu-shi-xi-tong/introduction.md)
 
 ## 微服务
 
