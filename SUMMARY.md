@@ -79,6 +79,7 @@
   * [缓存系统稳定性](guan-jian-xi-tong/huan-cun-xi-tong/huan-cun-xi-tong-wen-ding-xing.md)
   * [缓存数据一致性](guan-jian-xi-tong/huan-cun-xi-tong/huan-cun-shu-ju-yi-zhi-xing.md)
   * [缓存系统的取舍](guan-jian-xi-tong/huan-cun-xi-tong/huan-cun-xi-tong-de-qu-she.md)
+  * [Go微服务缓存原理与最佳实践](guan-jian-xi-tong/huan-cun-xi-tong/go-wei-fu-wu-huan-cun-yuan-li-yu-zui-jia-shi-jian.md)
 * [个性化推荐](guan-jian-xi-tong/ge-xing-hua-tui-jian.md)
 * [智能搜索引擎](guan-jian-xi-tong/zhi-neng-sou-suo-yin-qing.md)
 
